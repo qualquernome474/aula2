@@ -100,7 +100,7 @@ body {
   }
   .img-portfolio{
     max-width: 200px;
-    height: 100px;
+    height: 300px;
     border-radius: 8px;
   }
   .img-portfolio:hover{
