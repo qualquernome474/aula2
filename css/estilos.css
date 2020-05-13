@@ -9,7 +9,7 @@ img{
   flex-direction: column;
 }
 body {
-    background-image: url("imagem.jpg"); 
+    background-image: url("../imagem.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     font-family: monospace;
